@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Implementation](#model-implementation)
+- [GUI](#gui)
 - [Results](#results)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
@@ -128,7 +129,18 @@ The project implements three ML models:
 | XGBoost       | 90%      | 88%       | 87%    | 88%      |
 | Meta-Model    | 91%      | 89%       | 90%    | 89%      |
 
+
+## GUI
+![Screenshot 2025-05-01 180026](https://github.com/user-attachments/assets/af999118-f47a-4e13-9ada-a4a52805fb41)
+![Teacher Dashboard](https://github.com/user-attachments/assets/77ecc3ad-31bd-4748-b0a9-f92fa3b3178c)
+![Student Dashboard](https://github.com/user-attachments/assets/798ac7f7-a282-46a6-8c7d-727dc4d6c1d6)
+![Screenshot 2025-05-01 174728](https://github.com/user-attachments/assets/10d68556-f998-4a26-a194-f3f30053afea)
+![Screenshot 2025-05-01 174737](https://github.com/user-attachments/assets/f9645287-8e4c-4e9f-93d5-fd028b798226)
+![Screenshot 2025-05-01 174651](https://github.com/user-attachments/assets/3abcfe2e-157f-4e63-a2ed-a1af221bc22b)
+![Screenshot 2025-05-01 174657](https://github.com/user-attachments/assets/6108c677-5f2e-45e9-be71-dd5bc4a61f44)
+
 ## Results
+
 - **Key Findings**:
   - Attendance is the most significant predictor (32% contribution).
   - CCA scores and final exam performance are critical drivers.
